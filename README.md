@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN-STACK Development
-- 🌱 I’m currently learning Full Stack Development
+- 🔭 I’m currently working on Bootstrap and JS
+- 🌱 I’m currently learning MERN Stack Development
 - 🤔 I’m looking for help with Website Development
-- 💬 Ask me about Pyhton
-- 📫 How to reach me:+919559908790
-- ⚡ Fun fact: ...
+- 💬 Ask me about Python
+- 📫 How to reach me: pratapsinghshiv898@gmail.com
+- ⚡ Fun fact: More tha 570 new websites are created every minute.
