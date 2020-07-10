@@ -4,7 +4,7 @@ I am Shiv currently persuing B.Tech with CSE from SRM. Currently working with TE
 - 🔭 I’m currently working on: Bootstrap and JS
 - 🌱 I’m currently learning: MERN Stack Development
 - 🤔 I’m looking for help with: Website Development
-- 💬 Ask me about: Python
+- 💬 Ask me about: Python | JS | CPP | Mathematics
 - 📫 How to reach me: [Gmail](pratapsinghshiv898@gmail.com) [Linkedin](https://www.linkedin.com/in/shivpratapsinghshiv2017/) [Twitter](https://twitter.com/Shivpratap97)
 - ⚡ Fun fact: More than 570 new websites are created every minute.
 
