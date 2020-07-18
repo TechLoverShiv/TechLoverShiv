@@ -9,3 +9,5 @@ I am Shiv currently persuing B.Tech with CSE from SRM Chennai. Currently working
 - ⚡ Fun fact: More than 570 new websites are created every minute.
 
 # 🤟 Hakuna-Matata 🤟
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shivsingh-git&show_icons=true&line_height=35)
