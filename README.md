@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola there 👋
 I am Shiv currently persuing B.Tech with CSE from SRM Chennai. Currently working with TEDxChennai as Event-Experince Team member. My area of expertise is Python and currently learning MERN-Stack Development. Passionate Coder.
 
 - 🔭 I’m currently working on: Bootstrap and JS
